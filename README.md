@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Healtcare Analysis Project**
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **Data Visualisation and Analysis**
 
